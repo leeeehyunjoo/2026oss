@@ -1,3 +1,4 @@
+// sub.h
 #pragma once
 
-int sub(int, int);
+int sub(int x, int y);
